@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "353471346474",
+    "project_id": "amass-8bf7f",
+    "storage_bucket": "amass-8bf7f.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:353471346474:android:4d3f7ad5f3dc4855231053",
+        "android_client_info": {
+          "package_name": "com.amass.fixa"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDUdL5JHu3iuiAJ4upc4oo4OFm6WJXyaII"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
